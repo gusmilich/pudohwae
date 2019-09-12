@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ainguuraim.101010000.xyz/sitemap.xml
